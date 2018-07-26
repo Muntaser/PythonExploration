@@ -1,0 +1,12 @@
+[
+  "test_leap.py::test_is_leap",
+  "test_leap.py::test_is_leap_2",
+  "test_leap.py::test_is_leap_3",
+  "test_leap.py::test_is_leap_4",
+  "test_leap.py::test_is_leap_5",
+  "test_leap.py::test_is_leap_6",
+  "test_leap.py::test_is_leap_7",
+  "test_leap.py::test_is_leap_8",
+  "test_leap.py::test_is_leap_9",
+  "test_leap.py::test_is_leap_10"
+]

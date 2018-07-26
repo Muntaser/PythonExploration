@@ -1,0 +1,7 @@
+[
+  "test_pokerodds.py::test_one_pair",
+  "test_pokerodds.py::test_two_pair",
+  "test_pokerodds.py::test_three_of_a_kind",
+  "test_pokerodds.py::test_four_of_a_kind",
+  "test_pokerodds.py::test_full_house"
+]
